@@ -1,4 +1,4 @@
-Exercise 5 on the Udemy "employee_profile" course is a programming exercise that prompts the user to input their name, age, and hourly wage, and then outputs these values to the console. The exercise is designed to help beginners practice basic input and output operations in C++.
+Exercise 5 on the Udemy "employee_profile" is a programming exercise that prompts the user to input their name, age, and hourly wage, and then outputs these values to the console. The exercise is designed to help beginners practice basic input and output operations in C++.
 
 The code starts by prompting the user for their name using the "cout" statement and then reads the input from the user using the "cin" statement. The name is stored in a string variable named "name". The code then does the same for the user's age and hourly wage, storing them in an integer variable named "age" and a double variable named "hourlyWage", respectively.
 
